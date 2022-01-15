@@ -1,0 +1,10 @@
+{
+    "policyId": "aad6a15d58d00e87a45823c25209cce99f90ac93a42ea3120be2e82c",
+    "name": "King",
+    "symbol": "KING",
+    "website": "https://www.kingpool.space",
+    "description": "Don't sell your ADA to do fun things! Use Kings.",
+    "totalSupply": 2000000000,
+    "amounts": [1, 10, 100, 1000, 10000, 100000, 1000000],
+    "decimalPlaces": 6
+}
